@@ -1,0 +1,9 @@
+﻿Màu tóc,chiều cao,cân nặng,dùng thuốc,kết quả
+Đen,tầm thước,nhẹ,không,bị rám
+Đen,cao,vừa phải,có,không
+Râm,thấp,vừa phải,có,không
+Đen,thấp,vừa phải,không,bị rám
+Bạc,tầm thước,nặng,không,bị rám
+Râm,cao,nặng,không,không
+Râm,tầm thước,nặng,không,không
+Đen,thấp,nhẹ,có,không
